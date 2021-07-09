@@ -48,7 +48,6 @@
 ![](https://i.redd.it/arsq043gryu61.jpg)
 ![](https://i.redd.it/uu9t8lnkg1v61.jpg)
 ![](https://i.redd.it/gkmddm3k7jv61.jpg)
-![](https://i.redd.it/tlvmrvek7jv61.jpg)
 ![](https://media.discordapp.net/attachmnts/830856529607000086/836880613545607188/eWMYp20SXOXHcnjFfxg_4LXA-Rcn54dXfG8tM4jp2p8.png)
 ![](https://i.redd.it/gem2izs5i8v61.jpg)
 ![](https://i.redd.it/ohzs77l3bju61.jpg)
