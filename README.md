@@ -6,7 +6,7 @@ This is a dataset, out of two types, images and facts.
 ## Usage
 
 ### Download
-Clone the Repository, by opening the command line and executing the following command.
+Clone the Repository, by opening the command line and executing the following command:
 
 `git clone https://github.com/AxolotlAPI/data`
 
@@ -15,11 +15,7 @@ Clone the Repository, by opening the command line and executing the following co
 
 Get the latest data by simply taping into you installation folder and running:
 
-`git branch master`
-
-`git fetch`
-
-`git pull`
+`git pull origin main`
 
 
 ## License
