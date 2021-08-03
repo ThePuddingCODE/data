@@ -15,6 +15,10 @@ Clone the Repository, by opening the command line and executing the following co
 
 Get the latest data by simply taping into you installation folder and running:
 
+`git branch master`
+
+`git fetch`
+
 `git pull`
 
 
